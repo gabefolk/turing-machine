@@ -1,3 +1,4 @@
+// This count.txt file was created by Dr. Robert Hilderman University of Regina
 0 // initial state
 B 0 0 0 0 B // initial cell values on tape
 0 0 0 0 R // move right
