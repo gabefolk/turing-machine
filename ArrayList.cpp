@@ -1,8 +1,5 @@
 // ARRAY IMPLEMENTATION FILE
 
-#ifndef ARRAYLIST_CPP
-#define ARRAYLIST_CPP
-
 #include <cstdlib>
 #include <cassert>
 #include "ArrayList.hpp"
@@ -82,5 +79,3 @@ void ArrayList::Clear() { // reinitializes the array
     p = -1;
     return;
 }
-
-#endif
